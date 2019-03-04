@@ -1,4 +1,3 @@
-
 //Config
 var applicationID = 'JE61NV9M0M';
 var apiKey = '85b9834d56f52ace03bdeb7e1293181c';
@@ -38,3 +37,4 @@ $('#search-box').on('keyup', function() {
 
 //trigger the algolia search
 helper.search();
+
